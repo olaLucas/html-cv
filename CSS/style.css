@@ -1,0 +1,28 @@
+
+body 
+{
+    background-color: #EAF6F6;
+}
+
+a 
+{
+    font-size: large;
+}
+
+hr 
+{    
+    border-width: 5px;
+    border-style: dotted none none none;
+    border-color: grey;
+    width: 10%;
+}
+
+h1 
+{
+    color: #66BFBF;
+}
+
+h3 
+{
+    color: #66BFBF;
+}
